@@ -1,0 +1,41 @@
+anadokaza@Anas-Laptop SI_2024_lab1_223056 % git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+anadokaza@Anas-Laptop SI_2024_lab1_223056 % git log
+commit 8a916b02216ab0c4e16f59584a11b05323ef53b1 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Ana Dokaza <ana.dokaza@gmail.com>
+Date:   Sun Apr 14 20:36:24 2024 +0200
+
+    Call method makeBigStringFRom in main class
+
+commit a96908b80a639585478b10a40fb3151ace4babab
+Author: Ana Dokaza <ana.dokaza@gmail.com>
+Date:   Sun Apr 14 20:30:50 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 19d14d731429be1ca2efd69c7241a52352481c02 (origin/bug1, bug1)
+Author: Ana Dokaza <ana.dokaza@gmail.com>
+Date:   Sun Apr 14 20:33:36 2024 +0200
+
+    Call method filterOddLenghtStrings in main class
+
+commit 4faf008d853ef6db88b5ddd8dc028238e6ac0fb9
+Author: Ana Dokaza <ana.dokaza@gmail.com>
+Date:   Sun Apr 14 20:29:21 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 3b01b0271c00070ce9517f13a71f1a0020ed76dc
+Author: Ana Dokaza <ana.dokaza@gmail.com>
+Date:   Sun Apr 14 20:25:51 2024 +0200
+
+    Add starter code
+
+commit 8b42e0b9640e69ffcf5adc77b6341809790d910f
+Author: Ana Dokaza <ana.dokaza@gmail.com>
+Date:   Sun Apr 14 20:22:57 2024 +0200
+
+    first commit
+anadokaza@Anas-Laptop SI_2024_lab1_223056 % 
+
